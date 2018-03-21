@@ -1,0 +1,6 @@
+.article p{text-indent:.15rem;margin:.15rem 0;}
+.link_li{overflow:hidden;}
+.link_li dl{float:left;width:24%;margin-right:3px;}
+.link_li dl:last-child{margin-right:0;}
+.link_li dl dt{text-align:center;font-weight:bold;height:.5rem;line-height:.5rem;border-bottom:1px #d2d2d2 solid;}
+.link_li dl dd{margin:0;text-align:center;}
